@@ -1,5 +1,8 @@
-## Hi there 👋
+## Bem Vindos senhoras e senhores !! 👋
 
+##### Me chamo Gustavo Henrique e sou desenvolvedor back-end.
+Aqui você encontrará repositórios contendo tanto projetos individuais e em equipes, desenvolvidos durante a minha jornada acadêmica, quanto 
+projetos pessoais didáticos com os conceitos importantes sobre desenvolvimento back-end com JAVA e projetos pessoais demonstrativos, onde foram colocados em prática o conhecimento adquirido durante o meu processo de aprendizado.
 <!--
 **GustavoDaMassa/GustavoDaMassa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
