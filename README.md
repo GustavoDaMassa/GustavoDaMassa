@@ -18,23 +18,23 @@ Neste repositório, você encontrará projetos desenvolvidos tanto individualmen
 ## 📂 **Projetos**  
 🔹 **Projetos Pessoas** - Projetos elaborados para solucionar problemas reais de forma eficiente, explorando conceitos essenciais do back-end com **Java & Spring Boot**. 
 
-🔹 **Desafios** - resolução de desafios propostos por empresas, em todos eles houve a aplicação pela primeira vez de um novo conceito teórico na prática.  
+🔹 **Projetos de aprimoramento** - resolução de alguns desafios propostos por empresas, em todos eles houve a aplicação pela primeira vez de um novo conceito teórico na prática.  
 
-🔹 **Acadêmicos** - e colaborativos, desenvolvidos com trabalho em equipe em C e C++
+🔹 **Projetos Acadêmicos** - e colaborativos, desenvolvidos com trabalho em equipe em C e C++
 
 ## Estrutura do repositório
 
 ```
-       -------------------- 
-       | Projeto Pessoais |                                                                                         
-       --------------------
+       --------------------- 
+       | Projetos Pessoais |                                                                                         
+       ---------------------
               |
               |____ MediasAPI
 
 
-       ------------- 
-       | Desafios  |
-       -------------
+       ------------------------------
+       | Projetos de Aprimoramento  |
+       ------------------------------
               |
               |____ AgendaToDO
               |
