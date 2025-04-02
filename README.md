@@ -40,7 +40,7 @@ Neste repositório, você encontrará projetos desenvolvidos tanto individualmen
               |
               |____ SimplifiedWallet
               |
-              |____ CodenameUol
+              |____ CodinomeUol
 
 
        -------------- 
