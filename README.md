@@ -10,13 +10,27 @@ public class DesenvolvedorDeSoftware {
 
         System.out.println("
 
-               Me chamo Gustavo Henrique e sou desenvolvedor Java back-end;  
+               Me chamo Gustavo Henrique e
+               sou desenvolvedor Java
+               back-end;  
 
-              Neste repositório, você encontrará projetos desenvolvidos tanto individualmente quanto em equipe
-              ao longo da minha jornada acadêmica, além de projetos pessoais com foco didático,que exploram
-              conceitos importantes do desenvolvimento back-end em Java. Também compartilho projetos
-              demonstrativos que aplicam na prática o conhecimento adquirido durante o processo contínuo
-              de aprendizado.
+               Neste repositório, você
+               encontrará projetos
+               desenvolvidos tanto
+               individualmente quanto em
+               equipe ao longo da minha
+               jornada acadêmica, além de
+               projetos pessoais com foco
+               didático,que exploram
+               conceitos importantes do
+               desenvolvimento back-end em
+               Java. Também compartilho
+               projetos demonstrativos que
+               aplicam na prática
+               o conhecimento adquirido
+               durante o processo contínuo
+               de aprendizado.
+
        ");
     }
 }
