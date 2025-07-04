@@ -46,6 +46,8 @@ public class DesenvolvedorDeSoftware {
        ---------------------
               |
               |____ MediasAPI
+              |
+              |____ FinanceAPI
 
 
        ------------------------------
