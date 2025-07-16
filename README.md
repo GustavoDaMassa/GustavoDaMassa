@@ -74,9 +74,11 @@ public class DesenvolvedorDeSoftware {
 ```
 
 ## 🌟 **Em destaque**  
-📌 [**MediasAPI**](https://github.com/seu-usuario/projeto1)  
+📌 [**MediasAPI**](https://github.com/GustavoDaMassa/MediasAPI)  
 🛠 *API REST com implementação de Estrutura e Algoritmos de dados para o design da solução*  
  
+📌 [**FinanceAPI**](https://github.com/GustavoDaMassa/FinanceAPI)  
+🛠 *API GraphQL com implementação de webhook em ambiente sandbox com Open Finance* 
 
 ## 📫 **Entre em contato comigo:**  
 🔗 [LinkedIn](www.linkedin.com/in/gustavohpereiradev) | ✉️ *gustavo.pereira@discente.ufg.br*  
