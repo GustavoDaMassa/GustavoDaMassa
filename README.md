@@ -46,9 +46,9 @@ public class DesenvolvedorDeSoftware {
        | Projetos Pessoais |                                                                                         
        ---------------------
               |
-              |____ MediasAPI
+              |____ MediasAPI   | .java | .cs | .py | .js
               |
-              |____ FinanceAPI
+              |____ FinanceAPI   | Java | C# | Python | JavaScript 
 
 
        ------------------------------
