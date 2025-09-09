@@ -33,7 +33,7 @@ public class DesenvolvedorDeSoftware {
 📖 Graduando em Ciências da Computação na [Universidade Federal de Goiás (UFG) - Goiânia , Goiás](https://inf.ufg.br/p/ciencia-computacao)
 
 ## 📂 **Projetos**  
-🔹 **Projetos Pessoas** - Projetos elaborados para solucionar problemas reais de forma eficiente, explorando conceitos essenciais do back-end com **Java & Spring Boot**. 
+🔹 **Projetos Pessoas** - Projetos elaborados para solucionar problemas reais de forma eficiente, explorando conceitos essenciais do back-end com **Java & Spring Boot**, C# & ASPNet Core e Node & NestJS. 
 
 🔹 **Projetos de aprimoramento** - resolução de alguns desafios propostos por empresas, em todos eles houve a aplicação pela primeira vez de um novo conceito teórico na prática.  
 
@@ -46,9 +46,9 @@ public class DesenvolvedorDeSoftware {
        | Projetos Pessoais |                                                                                         
        ---------------------
               |
-              |____ MediasAPI   | .java | .cs | .py | .js
+              |____ MediasAPI   | .java | .cs | .ts
               |
-              |____ FinanceAPI   | Java | C# | Python | JavaScript 
+              |____ FinanceAPI   | Java | .Net | Node
 
 
        ------------------------------
