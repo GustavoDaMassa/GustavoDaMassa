@@ -91,6 +91,6 @@ public class SoftwareEngineer {
 🛠 *API GraphQL com implementação de webhook em ambiente sandbox com Open Finance* 
 
 ## 📫 **Entre em contato comigo:**  
-🔗 [LinkedIn](www.linkedin.com/in/gustavohpereiradev) | ✉️ *gustavohenrique3gb@gmail.com*  
+🔗 [LinkedIn](https://www.linkedin.com/in/gustavohpereiradev/) | ✉️ *gustavohenrique3gb@gmail.com*  
 
 ---
