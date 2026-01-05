@@ -10,16 +10,17 @@ public class SoftwareEngineer {
 
                 Gustavo Henrique | Software Engineer (Back-end);  
 
-                     Desenvolvedor Back-end com foco na construção de sistemas escaláveis, resilientes e de alta performance.
-                     Minha atuação é pautada pela aplicação de boas práticas de engenharia de software, garantindo código limpo
-                     e arquiteturas bem estruturadas.
+                     Desenvolvedor Back-end com foco na construção de sistemas escaláveis, resilientes e de alta
+                     performance. Minha atuação é pautada pela aplicação de boas práticas de engenharia de software,
+                     garantindo código limpo e arquiteturas bem estruturadas.
 
                      Neste perfil, você encontrará projetos que demonstram minha expertise em:
 
                      - Desenvolvimento de APIs RESTful robustas e seguras.
                      - Arquitetura de Sistemas: Experiência com microserviços e padrões de design.
                      - Qualidade de Software: Implementação de testes automatizados e integração contínua.
-                     - Resolução de Problemas Complexos: Soluções focadas em eficiência e experiência do usuário final.
+                     - Resolução de Problemas Complexos: Soluções focadas em eficiência e experiência do usuário
+                         final.
        ");
     }
 }
