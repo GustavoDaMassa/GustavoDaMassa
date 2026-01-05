@@ -16,7 +16,7 @@ public class DesenvolvedorDeSoftware {
                      Minha atuação é pautada pela aplicação de boas práticas de engenharia de software, garantindo código limpo
                      e arquiteturas bem estruturadas.
 
-               Neste perfil, você encontrará projetos que demonstram minha expertise em:
+                     Neste perfil, você encontrará projetos que demonstram minha expertise em:
 
                      - Desenvolvimento de APIs RESTful robustas e seguras.
                      - Arquitetura de Sistemas: Experiência com microserviços e padrões de design.
@@ -33,9 +33,11 @@ public class DesenvolvedorDeSoftware {
 
 🎯 Foco principal em desenvolvimento back-end à web, **APIs** e **microsserviços**.  
 
-💻 Sempre estudando novas tecnologias, arquitetura de software e boas práticas de código.  
+👨🏻‍💻 Sempre estudando novas tecnologias, arquitetura de software e boas práticas de código.  
 
 📖 Graduando em Ciências da Computação na [Universidade Federal de Goiás (UFG) - Goiânia , Goiás](https://inf.ufg.br/p/ciencia-computacao)
+
+🛠️ Stacks : **Java e Spring** (principal), C# . 
 
 ## 📂 **Projetos**  
 🔹 **API's** - Projetos elaborados que solucionam problemas reais de forma eficiente, explorando conceitos essenciais do back-end com **Java & Spring Boot**.
@@ -74,6 +76,10 @@ public class DesenvolvedorDeSoftware {
               |____ TioBolas
               |
               |____ HashTable
+              |
+              |____ GoianinhaCompiler
+
+
 
        
 ```
