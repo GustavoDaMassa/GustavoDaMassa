@@ -35,7 +35,7 @@ public class SoftwareEngineer {
 
 📖 Graduando em Ciências da Computação na [Universidade Federal de Goiás (UFG) - Goiânia , Goiás](https://inf.ufg.br/p/ciencia-computacao)
 
-🛠️ Stacks : **Java e Spring** (principal), C# . 
+🛠️ Stacks : **Java e Spring** (principal), C#/.NET e ASP.NET core, TypeScript/Node e NestJS. 
 
 ## 📂 **Projetos**  
 🔹 **API's** - Projetos elaborados que solucionam problemas reais de forma eficiente, explorando conceitos essenciais do back-end com **Java & Spring Boot**.
@@ -90,6 +90,6 @@ public class SoftwareEngineer {
 🛠 *API GraphQL com implementação de webhook em ambiente sandbox com Open Finance* 
 
 ## 📫 **Entre em contato comigo:**  
-🔗 [LinkedIn](www.linkedin.com/in/gustavohpereiradev) | ✉️ *gustavo.pereira@discente.ufg.br*  
+🔗 [LinkedIn](www.linkedin.com/in/gustavohpereiradev) | ✉️ *gustavohenrique3gb@gmail.com*  
 
 ---
