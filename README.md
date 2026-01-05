@@ -1,10 +1,8 @@
-
-
 # **👋 Bem-vindos, senhoras e senhores!**  
 
 
 ```java
-public class DesenvolvedorDeSoftware {
+public class SoftwareEngineer {
 
    public static void main(String[] args) {
 
