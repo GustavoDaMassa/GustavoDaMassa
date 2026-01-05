@@ -1,3 +1,5 @@
+[English](#-welcome-ladies-and-gentlemen)
+
 # **👋 Bem-vindos, senhoras e senhores!**  
 
 
@@ -94,3 +96,107 @@ public class SoftwareEngineer {
 🔗 [LinkedIn](https://www.linkedin.com/in/gustavohpereiradev/) | ✉️ *gustavohenrique3gb@gmail.com*  
 
 ---
+
+
+
+
+
+
+
+
+ [Português](#-bem-vindos-senhoras-e-senhores)
+
+
+
+## 👋 Welcome, Ladies and Gentlemen!
+
+```java
+public class SoftwareEngineer {
+
+   public static void main(String[] args) {
+
+        System.out.println("
+                Gustavo Henrique | Software Engineer (Back-end);  
+
+                     Back-end Developer focused on building scalable, resilient, and high-performance 
+                     systems. My work is driven by software engineering best practices, 
+                     ensuring clean code and well-structured architectures.
+
+                     In this profile, you will find projects that demonstrate my expertise in:
+
+                     - Developing robust and secure RESTful APIs.
+                     - System Architecture: Experience with microservices and design patterns.
+                     - Software Quality: Implementation of automated tests and continuous integration.
+                     - Complex Problem Solving: Solutions focused on efficiency and end-user 
+                       experience.
+        ");
+    }
+}
+
+```
+## 🚀 **About me**
+
+🎯 Main focus on back-end web development, **APIs**, and **microservices**.
+
+👨🏻‍💻 Constantly studying new technologies, software architecture, and coding best practices.
+
+📖 Computer Science Undergraduate at [Federal University of Goiás (UFG) - Goiânia, Brazil](https://inf.ufg.br/p/ciencia-computacao).
+
+🛠️ Stacks: **Java & Spring** (Primary), C#/.NET & ASP.NET Core, TypeScript/Node & NestJS.
+
+## 📂 **Projects**
+
+🔹 **APIs** - Elaborate projects that solve real-world problems efficiently, exploring core back-end concepts with **Java & Spring Boot**.
+
+🔹 **Personal Projects** - Challenges proposed by companies where I applied new theoretical concepts in practice for the first time.
+
+🔹 **Academic Projects** - Collaborative and academic work developed in C and C++.
+
+## Repository Structure
+
+```
+        --------------------- 
+        |        API        |                                                                                                   
+        ---------------------
+              |
+              |____ MediasAPI   | Java | .Net | Node
+              |
+              |____ FinanceAPI  | Java | .Net 
+
+
+        ------------------------------
+        |      Personal Projects     |
+        ------------------------------
+              |
+              |____ AgendaToDO
+              |
+              |____ SimplifiedWallet
+              |
+              |____ CodinomeUol
+
+
+        -------------- 
+        |  Academic  |
+        --------------
+              |
+              |____ TioBolas
+              |
+              |____ HashTable
+              |
+              |____ GoianinhaCompiler
+
+```
+
+## 🌟 **Featured**
+
+ 📌 **[MediasAPI](https://github.com/GustavoDaMassa/MediasAPI)**
+
+🛠 *REST API implementing Data Structures and Algorithms for the solution design.*
+
+📌 **[FinanceAPI](https://github.com/GustavoDaMassa/FinanceAPI)**
+
+🛠 *GraphQL API with webhook implementation in an Open Finance sandbox environment.* 
+
+## 📫 **Get in touch:**
+
+🔗 [LinkedIn](https://www.linkedin.com/in/gustavohpereiradev/) | ✉️ *gustavohenrique3gb@gmail.com* ---
