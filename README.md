@@ -10,13 +10,18 @@ public class DesenvolvedorDeSoftware {
 
         System.out.println("
 
-               Me chamo Gustavo Henrique e sou desenvolvedor back-end;  
+                Gustavo Henrique | Software Engineer (Back-end);  
 
-              Neste repositório, você encontrará projetos desenvolvidos tanto individualmente quanto em equipe
-              ao longo da minha jornada acadêmica, além de projetos pessoais com foco didático,que exploram
-              conceitos importantes do desenvolvimento back-end. Também compartilho projetos
-              demonstrativos que aplicam na prática o conhecimento adquirido durante o processo contínuo
-              de aprendizado.
+                     Desenvolvedor Back-end com foco na construção de sistemas escaláveis, resilientes e de alta performance.
+                     Minha atuação é pautada pela aplicação de boas práticas de engenharia de software, garantindo código limpo
+                     e arquiteturas bem estruturadas.
+
+               Neste perfil, você encontrará projetos que demonstram minha expertise em:
+
+                     - Desenvolvimento de APIs RESTful robustas e seguras.
+                     - Arquitetura de Sistemas: Experiência com microserviços e padrões de design.
+                     - Qualidade de Software: Implementação de testes automatizados e integração contínua.
+                     - Resolução de Problemas Complexos: Soluções focadas em eficiência e experiência do usuário final.
        ");
     }
 }
@@ -33,9 +38,9 @@ public class DesenvolvedorDeSoftware {
 📖 Graduando em Ciências da Computação na [Universidade Federal de Goiás (UFG) - Goiânia , Goiás](https://inf.ufg.br/p/ciencia-computacao)
 
 ## 📂 **Projetos**  
-🔹 **Projetos Pessoas** - Projetos elaborados para solucionar problemas reais de forma eficiente, explorando conceitos essenciais do back-end com **Java & Spring Boot**, C# & ASPNet Core e Node & NestJS. 
+🔹 **API's** - Projetos elaborados que solucionam problemas reais de forma eficiente, explorando conceitos essenciais do back-end com **Java & Spring Boot**.
 
-🔹 **Projetos de aprimoramento** - resolução de alguns desafios propostos por empresas, em todos eles houve a aplicação pela primeira vez de um novo conceito teórico na prática.  
+🔹 **Projetos Pessoais** - resolução de alguns desafios propostos por empresas, em todos eles houve a aplicação pela primeira vez de um novo conceito teórico na prática.  
 
 🔹 **Projetos Acadêmicos** - e colaborativos, desenvolvidos com trabalho em equipe em C e C++
 
@@ -43,7 +48,7 @@ public class DesenvolvedorDeSoftware {
 
 ```
        --------------------- 
-       | Projetos Pessoais |                                                                                         
+       |        API        |                                                                                         
        ---------------------
               |
               |____ MediasAPI   | Java | .Net | Node
@@ -52,7 +57,7 @@ public class DesenvolvedorDeSoftware {
 
 
        ------------------------------
-       | Projetos de Aprimoramento  |
+       |      Projetos Pessoais     |
        ------------------------------
               |
               |____ AgendaToDO
