@@ -103,7 +103,6 @@ public class SoftwareEngineer {
 
 
 
-
  [Português](#-bem-vindos-senhoras-e-senhores)
 
 
