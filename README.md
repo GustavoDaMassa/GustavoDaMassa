@@ -10,19 +10,20 @@ public class SoftwareEngineer {
 
         System.out.println("
 
-                Gustavo Henrique | Software Engineer (Back-end);  
+                Gustavo Henrique | Software Engineer;  
 
-                     Desenvolvedor Back-end com foco na construção de sistemas escaláveis, resilientes e de alta
+                     Desenvolvedor Full-Stack com foco na construção de sistemas escaláveis, resilientes e de alta
                      performance. Minha atuação é pautada pela aplicação de boas práticas de engenharia de software,
                      garantindo código limpo e arquiteturas bem estruturadas.
 
                      Neste perfil, você encontrará projetos que demonstram minha expertise em:
 
                      - Desenvolvimento de APIs RESTful robustas e seguras.
-                     - Arquitetura de Sistemas: Experiência com microserviços e padrões de design.
+                     - Implementação de Interfaces responsivas, intuitivas e funcionais. 
                      - Qualidade de Software: Implementação de testes automatizados e integração contínua.
                      - Resolução de Problemas Complexos: Soluções focadas em eficiência e experiência do usuário
                          final.
+                     - Implantação e infraestrutura adequada a necessidade.
        ");
     }
 }
@@ -32,7 +33,7 @@ public class SoftwareEngineer {
 
 ## 🚀 **Sobre mim**  
 
-🌐 Meu site : https://gustavodamassa.github.io/PortifolioSite
+🌐 Meu site : https://GustavoHDev.com.br
 
 🎯 Foco principal em desenvolvimento back-end à web, **APIs** e **microsserviços**.  
 
@@ -40,7 +41,7 @@ public class SoftwareEngineer {
 
 📖 Graduando em Ciências da Computação na [Universidade Federal de Goiás (UFG) - Goiânia , Goiás](https://inf.ufg.br/p/ciencia-computacao)
 
-🛠️ Stacks : **Java e Spring** (principal), C#/.NET e ASP.NET core, TypeScript/Node e NestJS. 
+🛠️ Stacks : **Java e Spring** (principal), C#/.NET e ASP.NET core, TypeScript/Node e NestJS, Angular e React, Aws e Terraform, Docker e Kafka. 
 
 ## 📂 **Projetos**  
 🔹 **API's** - Projetos elaborados que solucionam problemas reais de forma eficiente, explorando conceitos essenciais do back-end com **Java & Spring Boot**.
@@ -48,6 +49,8 @@ public class SoftwareEngineer {
 🔹 **Projetos Pessoais** - resolução de alguns desafios propostos por empresas, em todos eles houve a aplicação pela primeira vez de um novo conceito teórico na prática.  
 
 🔹 **Projetos Acadêmicos** - e colaborativos, desenvolvidos com trabalho em equipe em C e C++
+
+🔹 Interfaces Web – Implementação de layouts modernos e interativos, utilizando as melhores práticas de desenvolvimento para garantir acessibilidade, fidelidade visual e alta performance.
 
 ## Estrutura do repositório
 
@@ -81,6 +84,16 @@ public class SoftwareEngineer {
               |____ HashTable
               |
               |____ GoianinhaCompiler
+
+        -------------------- 
+        |  Interfaces web  |
+        --------------------
+              |
+              |____ MediasSite | Angular
+              |
+              |____ FinanceSite | Angular
+              |
+              |____ Portifolio | React
 
 
 
@@ -126,10 +139,11 @@ public class SoftwareEngineer {
                      In this profile, you will find projects that demonstrate my expertise in:
 
                      - Developing robust and secure RESTful APIs.
-                     - System Architecture: Experience with microservices and design patterns.
+                     - Implementation of responsive, intuitive, and functional interfaces.
                      - Software Quality: Implementation of automated tests and continuous integration.
                      - Complex Problem Solving: Solutions focused on efficiency and end-user 
                        experience.
+                     - Implementation and infrastructure tailored to the need.
         ");
     }
 }
@@ -137,7 +151,7 @@ public class SoftwareEngineer {
 ```
 ## 🚀 **About me**
 
-🌐 My website : https://gustavodamassa.github.io/PortifolioSite
+🌐 My website : https://GustavoHDev.com.br
 
 🎯 Main focus on back-end web development, **APIs**, and **microservices**.
 
@@ -145,7 +159,7 @@ public class SoftwareEngineer {
 
 📖 Computer Science Undergraduate at [Federal University of Goiás (UFG) - Goiânia, Brazil](https://inf.ufg.br/p/ciencia-computacao).
 
-🛠️ Stacks: **Java & Spring** (Primary), C#/.NET & ASP.NET Core, TypeScript/Node & NestJS.
+🛠️ Stacks: **Java & Spring** (Primary), C#/.NET & ASP.NET Core, TypeScript/Node & NestJS, Angular & React, Aws & Terraform, Docker & Kafka.
 
 ## 📂 **Projects**
 
@@ -154,6 +168,8 @@ public class SoftwareEngineer {
 🔹 **Personal Projects** - Challenges proposed by companies where I applied new theoretical concepts in practice for the first time.
 
 🔹 **Academic Projects** - Collaborative and academic work developed in C and C++.
+
+🔹 Web Interfaces – Implementation of modern and interactive layouts, using best development practices to ensure accessibility, visual fidelity, and high performance.
 
 ## Repository Structure
 
@@ -171,22 +187,32 @@ public class SoftwareEngineer {
         |      Personal Projects     |
         ------------------------------
               |
-              |____ AgendaToDO
+              |____ AgendaToDO | Java
               |
-              |____ SimplifiedWallet
+              |____ SimplifiedWallet | Java
               |
-              |____ CodinomeUol
+              |____ CodinomeUol | Java
 
 
         -------------- 
         |  Academic  |
         --------------
               |
-              |____ TioBolas
+              |____ TioBolas | C
               |
-              |____ HashTable
+              |____ HashTable | C++
               |
-              |____ GoianinhaCompiler
+              |____ GoianinhaCompiler | C
+
+        -------------------- 
+        |  Web Interfaces  |
+        --------------------
+              |
+              |____ MediasSite | Angular
+              |
+              |____ FinanceSite | Angular
+              |
+              |____ Portifolio | React 
 
 ```
 
